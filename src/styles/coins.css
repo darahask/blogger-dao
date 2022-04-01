@@ -1,0 +1,14 @@
+.centerscreen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 90vh;
+}
+
+.fixbottom{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  z-index: 2;
+}
