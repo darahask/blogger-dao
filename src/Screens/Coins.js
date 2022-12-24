@@ -46,7 +46,7 @@ export default function Coins() {
                     <h5 className="card-title mb-3">
                         BloggerCoin(BLC) Exchange
                     </h5>
-                    <p className="card-text">BLC coin cost: 0.001 ether</p>
+                    <p className="card-text">BLC coin cost: 0.001 matic</p>
                     <p className="card-text">
                         Total Supply: {utils.formatEther(total)}
                     </p>
